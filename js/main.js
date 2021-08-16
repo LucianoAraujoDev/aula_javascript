@@ -3,7 +3,7 @@
 var idade = 40;
 var idade2 = 19;
 var frase = "Japão é o melhor time do mundo";
-//var lista = ["maça","laranja","uva"];
+var lista = ["maça","laranja","uva"];
 var frutas = [{nome:"maça", cor:"vermelha"}, {nome:"uva", cor:"roxa"}];
 
 //lista.push("banana");
@@ -26,8 +26,7 @@ if (idade >= 18){
 }else {
     alert("Menor de idade");
 };
-*/
-var count = 0;
+//var count = 0;
 /*while (count <= 5){
     console.log(count);
     count = count +1;
@@ -37,5 +36,11 @@ var count = 0;
     alert(count);
 };
 */
-var d = new Date;
-alert(d.getUTCDate());
+//var d = new Date;
+//alert(d.getUTCDate());
+
+//var lista = ["Alemanha", "Inglaterra", "Escócia"];
+//lista.push("polonia");
+//lista.pop("Inglaterra");
+
+var lista = ["maça","laranja","uva"]
